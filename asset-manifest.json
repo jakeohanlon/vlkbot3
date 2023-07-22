@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vlkbot3/static/css/main.98d0566e.css",
+    "main.js": "/vlkbot3/static/js/main.5c5daa04.js",
+    "static/js/787.26e34588.chunk.js": "/vlkbot3/static/js/787.26e34588.chunk.js",
+    "index.html": "/vlkbot3/index.html",
+    "main.98d0566e.css.map": "/vlkbot3/static/css/main.98d0566e.css.map",
+    "main.5c5daa04.js.map": "/vlkbot3/static/js/main.5c5daa04.js.map",
+    "787.26e34588.chunk.js.map": "/vlkbot3/static/js/787.26e34588.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98d0566e.css",
+    "static/js/main.5c5daa04.js"
+  ]
+}
