@@ -13,7 +13,7 @@ function App() {
   const handleSendMessage = () => {
     if (inputValue.trim() !== '') {
       const userMessage = { text: inputValue, sender: 'user' };
-      const botMessage = { text: "Ian, please don't talk to me", sender: 'bot' };
+      const botMessage = { text: "Ian, I don't know if we should be talking. It's kind of strange the way that it ended but I'm glad things happened the way they did.", sender: 'bot' };
       const newMessages = [...messages, userMessage, botMessage];
       setMessages(newMessages);
       setInputValue('');
